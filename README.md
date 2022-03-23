@@ -13,8 +13,8 @@ Another thing that I find interesting is the Hexedecimal system (aka Base16), bu
 I'm working on a program that converts hex numbers into decimal and vice versa, and does hex calculations. 😄
 
 ## My Friends 😸:
-@MatinArdestani[https://github.com/Matin-Ardestani] (school classmate)  
-@flexinghippo [https://github.com/flexinghippo] (cousin)  
+[@MatinArdestani](https://github.com/Matin-Ardestani) (school classmate)  
+[@flexinghippo](https://github.com/flexinghippo) (cousin)  
 Please check them out, as well. 🙏
 
 ##
