@@ -6,7 +6,7 @@ I'm Parsa Aryan (Percy Ashdown if you can't pronounce Persian names), a guy inte
 ### 1️⃣ Park BMX:
 A fan of Persona 😈 series, (©️ Atlus), I've written an RPG game using Python.  
 Repository link: https://github.com/Blasterth/Park-BMX-RPG  
-Current Release link: https://github.com/Blasterth/Park-BMX-RPG/releases/tag/v1.0.0
+Current Release link: https://github.com/Blasterth/Park-BMX-RPG/releases/tag/v2.0.0
 
 ### 2️⃣ (Coming Soon) Hex Calculator:
 Another thing that I find interesting is the Hexedecimal system (aka Base16), but many people find it confusing. 😕  
