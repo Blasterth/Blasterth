@@ -1,5 +1,5 @@
 # Hello, there... 👋
-I'm Parsa Aryan (Percy Ashdown if you can't pronounce Persian names), a guy interested in Python.
+I'm Parsa Aryan (Percy Ashdown if you find Persian names weird), a guy interested in Python.
 
 ## My Repos 📦
 
